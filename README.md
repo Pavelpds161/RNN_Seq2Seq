@@ -4,7 +4,7 @@
 
 Задача: обучить чат-бота (основа) на датасете. 
 
-
+# 
 Implementation of the model Seq2Seq 
 
 Encoder-Decoder (without and with attention) 
